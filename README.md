@@ -17,6 +17,6 @@ Quando uma categoria clicada possuí subcategorias todas elas são exibidas em t
 - `CSS`
 
 
-## :bulb: Telas
+## :bulb: Tela
 
 ![video](https://user-images.githubusercontent.com/23708544/89109686-d6b9e780-d419-11ea-80a4-61be0fd7cb08.gif)
